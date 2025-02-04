@@ -1,5 +1,5 @@
 # online-birth-certificates
-Certainly! Here’s a detailed description of the project to create an online birth certificate registration system for Cameroon:
+ 
 
 Project Title: Online Birth Certificate Registration System for Cameroon
 Project Description:
